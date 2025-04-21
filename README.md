@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **LadyArnitah/LadyArnitah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: eomuvwi1@my.westga.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to travel and hope to do a project around this someday ........
--->
